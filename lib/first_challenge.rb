@@ -1,7 +1,7 @@
 def first_challenge
-   epic_tragedy = {
+  binding.pry
+  epic_tragedy = {
      :montague => {},
      :capulet => {}
    }
-   epic_tragedy
 end
